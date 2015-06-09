@@ -1,0 +1,27 @@
+{
+  "name": "didyouknow",
+  "version": "1.0.0",
+  "description": "Random interesting facts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjparangot/didyouknow.git"
+  },
+  "keywords": [
+    "facts",
+    "interesting",
+    "random"
+  ],
+  "author": "Matthew Parangot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjparangot/didyouknow/issues"
+  },
+  "homepage": "https://github.com/mjparangot/didyouknow#readme",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
